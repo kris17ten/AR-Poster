@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ARVideoCard" size="8.000000 11.333333" />
+    <ImageTarget name="simbaAR" size="5.000000 3.000000" />
+    <ImageTarget name="ARpic" size="11.000000 10.335417" />
+  </Tracking>
+</QCARConfig>
